@@ -1,0 +1,8 @@
+ccxt
+torch
+requests
+colorama
+google-generativeai
+python-dotenv
+pandas
+yfinance
