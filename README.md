@@ -32,6 +32,9 @@ ai_analyst.py: Bridge to Gemini AI for sentiment analysis and smart validation.
 risk_manager.py: Logic for risk calculation and trade safety.
 market_correlator.py: Analyzes market health through major coin comparisons.
 whale_tracker.py: Monitors large volume spikes to detect "whale" activity.
+demo_ogic.py: learning concept from a combination of online and offline
+
+
 🚀 Getting Started
 Clone this repository.
 Install dependencies: pip install torch ccxt requests pandas yfinance colorama python-dotenv.
